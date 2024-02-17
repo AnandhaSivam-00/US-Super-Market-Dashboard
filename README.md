@@ -4,7 +4,7 @@ This dashboard helps the Super Market members to understand the status of the sa
 
 ## BI Tool
     
-    Microsoft Power BI
+    Microsoft PowerBI
 
 ## Screenshot of the dashboard
 
@@ -13,6 +13,9 @@ This dashboard helps the Super Market members to understand the status of the sa
 
 
 ### Mobile View
+
+<img src="https://github.com/AnandhaSivam-00/US-Super-Market-Dashboard/assets/95125093/df2bced3-4a0b-4749-bdb7-6317bbdb6d8f" width=30% height=50% style="padding-right: 10px"> 
+<img src="https://github.com/AnandhaSivam-00/US-Super-Market-Dashboard/assets/95125093/bd4f7402-2b1a-4531-81c4-919117df6b67" width=30% height=50%>
 
 
 ## Insights
